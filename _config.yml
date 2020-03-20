@@ -15,7 +15,17 @@ description:      'Everyday Idea or Idea Everyday'
 author:
   name:           'Startup 101'
  
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
 
+    
 paginate:         5
 
 # Custom vars
