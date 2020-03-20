@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Welcome to my Post"
-tags: jekyll blog github-page startup
-categories: blog startup
+title:  "Hello Startups"
+tags: ideas startup
+categories: startup angel-investors markets
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+# Market Segments
+[Startup markets](https://angel.co/markets)
