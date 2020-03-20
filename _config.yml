@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Startup 101
 tagline:          'A theme'
 description:      'Everyday Idea or Idea Everyday'
-baseurl:          ""
+baseurl:          "/"
 
 
 author:
