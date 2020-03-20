@@ -18,13 +18,12 @@ author:
 nav:
   Home:           
     - '/'
+  About:          
+    - '/about/'
   Blog:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
-  About:          
-    - '/about/'
-
     
 paginate:         5
 
