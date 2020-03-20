@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Idea"
-tags: jekyll blog github-page startup
+tags: startup 101
 ---
 
-# What is an idea?
+# Whats your idea today¿
 
