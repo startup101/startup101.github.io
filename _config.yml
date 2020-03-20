@@ -5,21 +5,22 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
+
 # Setup
-title:            Startup 101
-tagline:          'Everyday Ideas or Ideas Everyday'
+title:            Hyde
+tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Startup 101'
-  url:            https://github.com/startup101
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-version:          1.1.0
+version:          2.1.0
 
 github:
-  repo:           https://github.com/startup101
+  repo:           https://github.com/poole/hyde
