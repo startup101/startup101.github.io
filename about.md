@@ -8,10 +8,7 @@ title: About
 </p>
 
 
-
-
-
-## Setup
+## Ideas
 
 Some fun facts about the setup of this project include:
 
