@@ -4,6 +4,7 @@ title:  "The Thought : Automatic food stirrer"
 tags: startup cooking gadgets
 cateogeries: kitchen
 ---
+
 Standing to stir food is painful. 15 minutes of constant staring while stirring my steel-cut oats and soup and 100 other recipes, is no FUN!!
 ![autoMaticFoodStirrer](/public/img/post/automaticFoodStirrer.jpeg){:height="300px" width="350px"}
 

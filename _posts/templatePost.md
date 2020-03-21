@@ -4,6 +4,8 @@ title:  "The Thought :  "
 tags: startup kitchen cooking gadgets
 cateogeries: 
 ---
+<p> Blah Blah </p>
+
 ![postImage](/public/img/logo.jpg){:height="300px" width="350px"}
 
 ## The Creative Spill

@@ -22,6 +22,6 @@ title: About
 
 *Step5*  IPO
 
-
+{% include image-gallery.html folder="/public/img/post" %}
 
 ## [Your one stop startup resource](https://startup101.github.io/startup/angel-investors/markets/2020/03/19/first-post/)
