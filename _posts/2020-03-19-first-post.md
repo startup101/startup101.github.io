@@ -4,6 +4,13 @@ title:  "Hello Startups"
 tags: ideas startup valuation school
 categories: startup angel-investors markets 
 ---
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src=""https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif"">
+</iframe>
+
 
 ## Market Segments
 [Startup markets](https://angel.co/markets)
