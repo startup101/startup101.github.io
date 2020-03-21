@@ -9,8 +9,7 @@ title: Home
 
 <iframe id="rocket"
     title="Rocket"
-    width="1200"
-    height="500"
+    style="width:100%;height:100%"
     src="https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif">
 </iframe>
 
