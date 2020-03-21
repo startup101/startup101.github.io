@@ -8,8 +8,14 @@ categories: startup angel-investors markets
 ## Market Segments
 [Startup markets](https://angel.co/markets)
 
-## Valuation based on location
+## Startup valuation based on location
 [Startup Valuation](https://angel.co/valuations)
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://angel.co/blog">
+</iframe>
 
-## Valuation based on location
+## Startup School
 [Startup School](https://www.startupschool.org/)
