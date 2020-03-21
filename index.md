@@ -9,8 +9,8 @@ title: Home
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="300"
-    height="200"
+    width="900"
+    height="800"
     src="https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif">
 </iframe>
 
