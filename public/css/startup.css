@@ -5,7 +5,7 @@ iframe {
     outline-width: 0;
 }
 
-.output {
-    background: #eee;
+.foo {
+  text-align: center;
+  width: 100px;
 }
-
