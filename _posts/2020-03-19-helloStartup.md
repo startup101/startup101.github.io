@@ -13,3 +13,6 @@ categories: angel-investors markets
 ## Startup School
 [Startup School](https://www.startupschool.org/)
 [Startup Courses](http://startupclass.samaltman.com/)
+
+## Startup reddit
+[reddit](https://www.reddit.com/r/startups/)
