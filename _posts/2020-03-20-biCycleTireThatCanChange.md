@@ -15,6 +15,6 @@ tags: startup automotive bicycle
 ## Existing (meh!) Solution(s)
 <p> You cannot go on an adventure that let's you do both, not yet </p>
 
-## Would you use it 
-
 ![postImage](https://www.sportivecyclist.com/wp-content/uploads/hybrid-vs-road-bike.jpg)
+
+## Would you use it ?
