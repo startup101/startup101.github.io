@@ -3,7 +3,7 @@ layout: post
 title:  "The Thought :  Bi-cycle tires that can change"
 tags: startup automative bicycle
 ---
-![postImage](/public/img/logo.jpg){:height="200px" width="250px"}
+![postImage](/public/img/post/bikeTiresThatCanCHange.jpeg){:height="300px" width="350px"}
 <!-- ![postImage](/public/img/logo.jpg){:.foo} --> 
 
 ## The Creative Spill
