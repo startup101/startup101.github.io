@@ -7,14 +7,6 @@ title: Home
   <img src="{{ site.logo.image }}" />
 </div>
 
-<iframe id="rocket"
-    title="Rocket"
-    width="1100"
-    height= "550"    
-    frameborder="0"    
-    scrolling="no"
-    src="https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif">
-</iframe>
-
+[](https://startup101.github.io/startup/angel-investors/markets/2020/03/19/first-post/)
 
 ## Whats your idea today¿
