@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 <p class="message">
-  Hey there! Time to fire up your neurons!
+  Time to indulge in some thoughts!
 </p>
 
 
