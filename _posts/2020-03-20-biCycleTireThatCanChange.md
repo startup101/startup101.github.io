@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Thought :  Bi-cycle tires that can change"
+title:  "The Epiphany :  Bi-cycle tires that can change"
 tags: startup automotive bicycle
 ---
 
