@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Idea"
-tags: startup 101
+tags: startup 101 ideas
 ---
 
-## Whats your idea today¿
 ## The Thought
 ## The Creative Spill
 ## Existing (meh!) Solution(s)
