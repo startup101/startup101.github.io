@@ -4,7 +4,7 @@ title:  "The Thought :  "
 tags: startup kitchen cooking gadgets
 cateogeries: 
 ---
-![postImage](/public/img/post/bikeTiresThatCanCHange.jpeg){:height="300px" width="350px"}
+![postImage](/public/img/logo.jpg){:height="300px" width="350px"}
 
 ## The Creative Spill
 
