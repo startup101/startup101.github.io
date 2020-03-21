@@ -7,4 +7,12 @@ title: Home
   <img src="{{ site.logo.image }}" />
 </div>
 
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif">
+</iframe>
+
+
 ## Whats your idea today¿
