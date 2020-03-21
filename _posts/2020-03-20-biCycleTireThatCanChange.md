@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The Thought :  Bi-cycle tires that can change"
-tags: startup automative bicycle
+tags: startup bicycle
+cateogeries: automative 
 ---
 ![bikeTires](/public/img/post/bikeTiresThatCanCHange.jpeg){:height="300px" width="350px"}
 <!-- ![postImage](/public/img/logo.jpg){:.foo} --> 

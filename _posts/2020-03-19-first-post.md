@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello Startups"
 tags: ideas startup valuation school
-categories: startup angel-investors markets 
+categories: angel-investors markets 
 ---
 ## Market Segments
 [Startup markets](https://angel.co/markets)
@@ -12,3 +12,4 @@ categories: startup angel-investors markets
 
 ## Startup School
 [Startup School](https://www.startupschool.org/)
+[Startup Courses](http://startupclass.samaltman.com/)
