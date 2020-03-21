@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Thought : Automatic food stirrer"
+title:  "The Epiphany : Automatic food stirrer"
 tags: startup cooking gadgets
 cateogeries: kitchen
 ---
