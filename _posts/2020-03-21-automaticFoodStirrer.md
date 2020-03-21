@@ -13,3 +13,5 @@ If only I could attach something on top of my cooking pot, that can stir it all.
 
 ## Existing (meh!) Solution(s)
 [Meh, it exists](https://www.gearhungry.com/best-automatic-pot-stirrer/)
+
+## Would you use it ?
