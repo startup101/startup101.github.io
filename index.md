@@ -13,7 +13,7 @@ title: Home
     width="1100"
     height= "550"
     scrolling="no"
-    
+    frameborder="0" border="0" cellspacing="0"    
     src="https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif">
 </iframe>
 </div>
