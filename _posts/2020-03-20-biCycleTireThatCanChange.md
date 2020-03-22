@@ -3,7 +3,7 @@ layout: post
 title:  "The Thought :  Bi-cycle tires that can change"
 tags: startup automative bicycle
 ---
-
+	
 <p> Ever wonder if you could switch between a road bike and mountain bike, something to consider when you live on Mars. </p>
 
 ![bikeTires](/public/img/post/bikeTiresThatCanCHange.jpeg){:height="300px" width="350px"}
