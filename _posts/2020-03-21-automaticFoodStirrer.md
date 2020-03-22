@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Epiphany : Automatic food stirrer"
-tags: startup cooking gadgets
-cateogeries: kitchen
+tags: startup cooking 
+cateogeries: kitchen gadgets
 ---
 
 Standing to stir food is painful. 15 minutes of constant staring while stirring the steel-cut oats or soup or 100 other recipes, is no FUN!!
