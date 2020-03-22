@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Startups"
+title: "The Epiphany : One stop for Startup Ideas"
 tags: ideas startup valuation school
 categories: angel-investors markets 
 ---

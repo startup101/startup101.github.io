@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Thought :  "
+title:  "The Epiphany :  "
 tags: startup kitchen cooking gadgets
 cateogeries: 
 ---
