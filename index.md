@@ -22,4 +22,4 @@ title: About
 
 *Step5*  IPO
 
-## [Your one stop startup resource](https://startup101.github.io/startup/angel-investors/markets/2020/03/19/first-post/)
+## [Your one stop startup resource](https://startup101.github.io/angel-investors/markets/2020/03/19/helloStartup/)
