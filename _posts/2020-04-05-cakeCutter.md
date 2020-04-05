@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Epiphany : Apple cake cutter  "
-tags: startup kitchen cooking gadgets
-cateogeries: 
+tags: startup cooking 
+cateogeries: kitchen
 ---
 <p> Cutting cakes is fun for the person who cuts the first piece. Then its the side kicks job to cut the rest. And more often than not its tedious and disproporinate. </p>
 
