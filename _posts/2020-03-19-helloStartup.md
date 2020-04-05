@@ -17,4 +17,4 @@ categories: angel-investors markets
 [Startup Courses](http://startupclass.samaltman.com/)
 
 ## Startup reddit
-[reddit](https://www.reddit.com/r/startups/)
+[Reddit](https://www.reddit.com/r/startups/)
