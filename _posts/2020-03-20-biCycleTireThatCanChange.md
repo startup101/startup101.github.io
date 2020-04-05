@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The Epiphany :  Bi-cycle tires that can change"
-tags: startup automotive bicycle
+tags: startup bicycle
+cateogeries : automotive
 ---
 	
 <p> Ever wonder if you could switch between a road bike and mountain bike, something to consider when you live on Mars. </p>
